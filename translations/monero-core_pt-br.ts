@@ -4363,8 +4363,8 @@ Se você não tiver a opção de executar seu próprio nó, você pode se conect
     </message>
     <message>
         <location filename="../main.qml" line="1345"/>
-        <source>Would you like to register Monero GUI Desktop entry?</source>
-        <translation>Gostaria de adicionar um atalho na área de trabalho para a Monero GUI?</translation>
+        <source>Would you like to register GWB GUI Desktop entry?</source>
+        <translation>Gostaria de adicionar um atalho na área de trabalho para a GWB GUI?</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1347"/>

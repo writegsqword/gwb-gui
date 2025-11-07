@@ -4358,7 +4358,7 @@ If you don&apos;t have the option to run your own node, there&apos;s an option t
     </message>
     <message>
         <location filename="../main.qml" line="1345"/>
-        <source>Would you like to register Monero GUI Desktop entry?</source>
+        <source>Would you like to register GWB GUI Desktop entry?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

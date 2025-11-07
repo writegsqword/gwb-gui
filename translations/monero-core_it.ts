@@ -4368,7 +4368,7 @@ Se non si ha la possibilità di operare un proprio nodo locale, ci si può conne
     </message>
     <message>
         <location filename="../main.qml" line="1345"/>
-        <source>Would you like to register Monero GUI Desktop entry?</source>
+        <source>Would you like to register GWB GUI Desktop entry?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

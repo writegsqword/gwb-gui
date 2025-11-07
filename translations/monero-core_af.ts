@@ -4368,8 +4368,8 @@ As u nie die opsie het om u eie nodus te gebruik nie, bly daar &apos;n opsie om 
     </message>
     <message>
         <location filename="../main.qml" line="1345"/>
-        <source>Would you like to register Monero GUI Desktop entry?</source>
-        <translation>Wil u &apos;n Monero GUI werkskerminskrywing registreer?</translation>
+        <source>Would you like to register GWB GUI Desktop entry?</source>
+        <translation>Wil u &apos;n GWB GUI werkskerminskrywing registreer?</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1347"/>

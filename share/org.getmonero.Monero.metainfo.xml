@@ -11,7 +11,7 @@
         <category>Finance</category>
         <category>Office</category>
     </categories>
-    <name>Monero GUI</name>
+    <name>GWB GUI</name>
     <summary>Monero: the secure, private, untraceable cryptocurrency</summary>
     
     <description>
@@ -41,7 +41,7 @@
 
     <screenshots>
         <screenshot type="default">
-            <caption>A screenshot of the Monero GUI wallet</caption>
+            <caption>A screenshot of the GWB GUI wallet</caption>
             <image>https://raw.githubusercontent.com/monero-project/monero-site/master/img/downloads/gui.png</image>
         </screenshot>
     </screenshots>

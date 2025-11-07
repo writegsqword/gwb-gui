@@ -4371,8 +4371,8 @@ Ak nemáte možnosť spustiť vlastný uzol, existuje možnosť pripojenia k vzd
     </message>
     <message>
         <location filename="../main.qml" line="1345"/>
-        <source>Would you like to register Monero GUI Desktop entry?</source>
-        <translation>Želáte si registrovať Monero GUI Desktop záznam?</translation>
+        <source>Would you like to register GWB GUI Desktop entry?</source>
+        <translation>Želáte si registrovať GWB GUI Desktop záznam?</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1347"/>

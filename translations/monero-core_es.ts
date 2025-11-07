@@ -4408,8 +4408,8 @@ Si no tienes la opción de ejecutar tu propio nodo, hay una opción de conectars
     </message>
     <message>
         <location filename="../main.qml" line="1345"/>
-        <source>Would you like to register Monero GUI Desktop entry?</source>
-        <translation>¿Le gustaría registrar un acceso directo para Monero GUI?</translation>
+        <source>Would you like to register GWB GUI Desktop entry?</source>
+        <translation>¿Le gustaría registrar un acceso directo para GWB GUI?</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1347"/>

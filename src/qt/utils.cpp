@@ -91,10 +91,10 @@ QString getAccountName(){
 QString xdgMime(){
     return QString(
         "[Desktop Entry]\n"
-        "Name=Monero GUI\n"
+        "Name=GWB GUI\n"
         "GenericName=Monero-GUI\n"
         "X-GNOME-FullName=Monero-GUI\n"
-        "Comment=Monero GUI\n"
+        "Comment=GWB GUI\n"
         "Keywords=Monero;\n"
         "Exec=\"%1\" %u\n"
         "Terminal=false\n"

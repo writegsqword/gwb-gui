@@ -4371,8 +4371,8 @@ Jos sinulla ei ole mahdollisuutta käyttää omaa solmua, sinulla on mahdollisuu
     </message>
     <message>
         <location filename="../main.qml" line="1345"/>
-        <source>Would you like to register Monero GUI Desktop entry?</source>
-        <translation>Haluatko rekisteröidä Monero GUI työpöydän kuvakkeen?</translation>
+        <source>Would you like to register GWB GUI Desktop entry?</source>
+        <translation>Haluatko rekisteröidä GWB GUI työpöydän kuvakkeen?</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1347"/>

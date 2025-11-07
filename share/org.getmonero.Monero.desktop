@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Monero GUI
+Name=GWB GUI
 GenericName=Monero-GUI
-Comment=Monero GUI
+Comment=GWB GUI
 Exec=monero-wallet-gui
 Type=Application
 Terminal=false

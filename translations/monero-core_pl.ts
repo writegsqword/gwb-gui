@@ -4329,8 +4329,8 @@ Jeżeli nie masz opcji aby uruchomić własny węzeł, jest opcja połączenia d
     </message>
     <message>
         <location filename="../main.qml" line="1345"/>
-        <source>Would you like to register Monero GUI Desktop entry?</source>
-        <translation>Czy chcesz zarejestrować wpis Monero GUI Desktop?</translation>
+        <source>Would you like to register GWB GUI Desktop entry?</source>
+        <translation>Czy chcesz zarejestrować wpis GWB GUI Desktop?</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1347"/>

@@ -4363,8 +4363,8 @@ Dacă nu aveți opțiunea de a rula propriul nod, există o opțiune de conectar
     </message>
     <message>
         <location filename="../main.qml" line="1345"/>
-        <source>Would you like to register Monero GUI Desktop entry?</source>
-        <translation>Dorești să înregistrezi elementul de Desktop Monero GUI?</translation>
+        <source>Would you like to register GWB GUI Desktop entry?</source>
+        <translation>Dorești să înregistrezi elementul de Desktop GWB GUI?</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1347"/>

@@ -4363,7 +4363,7 @@ Si vous n&apos;avez pas la possibilité d&apos;exécuter votre propre nœud, vou
     </message>
     <message>
         <location filename="../main.qml" line="1345"/>
-        <source>Would you like to register Monero GUI Desktop entry?</source>
+        <source>Would you like to register GWB GUI Desktop entry?</source>
         <translation>Voulez vous créer un raccourci sur le Bureau pour le GUI Monero ?</translation>
     </message>
     <message>

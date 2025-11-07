@@ -4026,7 +4026,7 @@ Si vostè no disposa de la opció de executar el seu propi node, hi ha la opció
     </message>
     <message>
         <location filename="../main.qml" line="1338"/>
-        <source>Would you like to register Monero GUI Desktop entry?</source>
+        <source>Would you like to register GWB GUI Desktop entry?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

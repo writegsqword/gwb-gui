@@ -4379,7 +4379,7 @@ Als het niet mogelijk is om uw eigen node te draaien, dan is er een optie om ver
     </message>
     <message>
         <location filename="../main.qml" line="1345"/>
-        <source>Would you like to register Monero GUI Desktop entry?</source>
+        <source>Would you like to register GWB GUI Desktop entry?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
