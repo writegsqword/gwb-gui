@@ -513,7 +513,7 @@ Rectangle {
                                 Layout.preferredWidth: recipientLayout.thirdRowWidth
                                 horizontalAlignment: Text.AlignHCenter
                                 font.family: MoneroComponents.Style.fontRegular.name
-                                text: "XMR"
+                                text: "GWB"
                                 visible: recipientModel.count == 1
                             }
                         }
@@ -594,7 +594,7 @@ Rectangle {
                         Layout.maximumWidth: recipientLayout.thirdRowWidth
                         horizontalAlignment: Text.AlignHCenter
                         font.family: MoneroComponents.Style.fontRegular.name
-                        text: "XMR"
+                        text: "GWB"
                         visible: recipientModel.count > 1
                     }
 

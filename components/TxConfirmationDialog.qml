@@ -139,8 +139,8 @@ Rectangle {
         root.sweepUnmixable = false;
     }
 
-    function showFiatConversion(valueXMR) {
-        const fiatFee = fiatApiConvertToFiat(valueXMR);
+    function showFiatConversion(valueGWB) {
+        const fiatFee = fiatApiConvertToFiat(valueGWB);
         return "%1 %2".arg(fiatFee < 0.01 ? "&lt;0.01" : "~" + fiatFee).arg(fiatApiCurrencySymbol());
     }
 
@@ -205,7 +205,7 @@ Rectangle {
                     if (root.transactionAmount == "(all)" && currentWallet.isHwBacked() === true) {
                         return qsTr("All unlocked balance") +  translationManager.emptyString;
                     } else {
-                        return root.transactionAmount + " XMR " +  translationManager.emptyString;
+                        return root.transactionAmount + " GWB " +  translationManager.emptyString;
                     }
                 }
             }
@@ -311,7 +311,7 @@ Rectangle {
                                 title = qsTr("Monero address") + translationManager.emptyString;
                             }
                             if (recipients.length > 1) {
-                                title = "%1. %2 - %3 XMR".arg(index + 1).arg(title).arg(recipient.amount);
+                                title = "%1. %2 - %3 GWB".arg(index + 1).arg(title).arg(recipient.amount);
                                 if (persistentSettings.fiatPriceEnabled) {
                                     title += " (%1)".arg(showFiatConversion(recipient.amount));
                                 }
@@ -350,7 +350,7 @@ Rectangle {
                                     return qsTr("Calculating fee") + "..." +  translationManager.emptyString;
                                 }
                             } else {
-                                return root.transactionFee + " XMR" + (maliciousTxFee ? " (HIGH FEE)" : "")
+                                return root.transactionFee + " GWB" + (maliciousTxFee ? " (HIGH FEE)" : "")
                             }
                         } else {
                             return "";
